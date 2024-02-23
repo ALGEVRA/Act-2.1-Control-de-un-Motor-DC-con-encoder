@@ -88,6 +88,9 @@ void loop() {
     vel_rad_s = vel * (2.0 * PI / 60.0);
     pos_ant = pos;
     
+    Serial.print("rpm: ");
     Serial.println(vel);
+    Serial.print("rad/s: ");
+    Serial.println(vel_rad_s);
   }
 }
