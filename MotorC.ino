@@ -1,5 +1,5 @@
 //Zaida Irais López Mendieta A01708755
-//Francisco Alejandro Velázquez Ledesma - A01708755
+//Francisco Alejandro Velázquez Ledesma - A01709475
 //Julio David Reséndiz Cruz - A01709375
 
 #define IN_1 26
